@@ -14,7 +14,7 @@ To analyze the relationship between input and received signal of a 600nm fiber o
 - 660 nm fiber cable  
 
 ---
-
+ 
 ## THEORY
 
 Fiber optic links can be used for transmission of digital as well as analog signals. A fiber optic link typically consists of three main elements:
