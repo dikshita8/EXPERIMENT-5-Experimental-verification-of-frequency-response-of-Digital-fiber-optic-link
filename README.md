@@ -4,7 +4,7 @@ Exp 5 Experimental verification of frequency response of Digital fiber optic lin
 ## AIM
 To analyze the relationship between input and received signal of a 600nm fiber optic cable using digital link.
 
----
+--- 
 
 ## EQUIPMENTS REQUIRED
 - Fiber optic trainer kit ST 2502  
